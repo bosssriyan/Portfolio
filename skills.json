@@ -1,0 +1,36 @@
+[
+{"name":"ReactJS","icon":"https://img.icons8.com/color/48/000000/react-native.png"},
+{"name":"NodeJS","icon":"https://img.icons8.com/color/48/000000/nodejs.png"},
+{"name":"JavaScript","icon":"https://img.icons8.com/color/48/000000/javascript--v1.png"},
+{"name":"HTML5","icon":"https://img.icons8.com/color/48/000000/html-5--v1.png"},
+{"name":"CSS3","icon":"https://img.icons8.com/color/48/000000/css3.png"},
+{"name":"TailwindCSS","icon":"https://img.icons8.com/color/48/000000/tailwindcss.png"},
+{"name":"Bootstrap","icon":"https://img.icons8.com/color/48/000000/bootstrap.png"},
+{"name":"Firebase","icon":"https://img.icons8.com/color/48/000000/firebase.png"},
+{"name":"MongoDB","icon":"https://img.icons8.com/color/48/000000/mongodb.png"},
+{"name":"MySQL","icon":"https://img.icons8.com/color/48/000000/mysql-logo.png"},
+{"name":"WordPress","icon":"https://img.icons8.com/color/48/000000/wordpress.png"},
+
+{"name":"Laravel","icon":"https://img.icons8.com/fluency/48/000000/laravel.png"},
+{"name":"SEO","icon":"https://img.icons8.com/color/48/000000/seo-optimization.png"},
+{"name":"Google Analytics","icon":"https://img.icons8.com/color/48/000000/google-analytics.png"},
+
+{"name":"Video Editing","icon":"https://img.icons8.com/color/48/000000/video-editing.png"},
+{"name":"Motion Graphics","icon":"https://img.icons8.com/color/48/000000/animation.png"},
+{"name":"Premiere Pro","icon":"https://img.icons8.com/color/48/000000/adobe-premiere-pro.png"},
+{"name":"After Effects","icon":"https://img.icons8.com/color/48/000000/adobe-after-effects.png"},
+{"name":"Filmora","icon":"https://img.icons8.com/color/48/000000/video-trimming.png"},
+{"name":"DaVinci Resolve","icon":"https://img.icons8.com/color/48/000000/davinci-resolve.png"},
+
+{"name":"Photoshop","icon":"https://img.icons8.com/color/48/000000/adobe-photoshop.png"},
+{"name":"Illustrator","icon":"https://img.icons8.com/color/48/000000/adobe-illustrator.png"},
+{"name":"Lightroom","icon":"https://img.icons8.com/color/48/000000/adobe-lightroom.png"},
+{"name":"PicsArt","icon":"https://img.icons8.com/color/48/000000/picsart.png"},
+{"name":"Canva","icon":"https://img.icons8.com/color/48/000000/canva.png"},
+{"name":"Figma","icon":"https://img.icons8.com/color/48/000000/figma--v1.png"},
+
+{"name":"AI Tools","icon":"https://img.icons8.com/color/48/000000/artificial-intelligence.png"},
+{"name":"ChatGPT","icon":"https://img.icons8.com/color/48/000000/chatgpt.png"},
+{"name":"Final Cut Pro","icon":"https://img.icons8.com/color/48/000000/final-cut-pro-x.png"},
+{"name":"Content Creation","icon":"https://img.icons8.com/color/48/000000/content.png"}
+]
