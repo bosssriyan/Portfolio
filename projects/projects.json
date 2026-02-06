@@ -23,8 +23,7 @@
     "image": "newsboxandroid",
     "category": "android",
     "links": {
-      "view": "https://www.linkedin.com/posts/jigar-sable_androiddev-androidstudio-java-activity-6955224473822199808-JT0j",
-      "code": "https://github.com/jigar-sable/newsbox-android"
+      
     }
   },
   {
@@ -33,18 +32,16 @@
     "image": "weatherlyandroid",
     "category": "android",
     "links": {
-      "view": "https://www.linkedin.com/posts/jigar-sable_androiddev-androidstudio-java-activity-6955224473822199808-JT0j",
-      "code": "https://github.com/jigar-sable/weatherly-android"
+      
     }
   },
   {
-    "name": "Instagram MERN",
-    "desc": "Full-Stack Instagram clone built using MERN stack and realtime chat with the help of socket.iO",
-    "image": "instagrammern",
+    "name": "professionally edit your video",
+    "desc": "I have been editing videos for the past five years! and have outstanding experience in every niche! Be it vlogs, infographic videos, gaming videos, makeup, travel, Talkshow, etc.",
+    "image": "video edit",
     "category": "mern",
     "links": {
-      "view": "https://instagramernstack.herokuapp.com/",
-      "code": "https://github.com/jigar-sable/instagram-mern"
+      
     }
   },
   {
@@ -338,5 +335,6 @@
     }
   }
 ]
+
 
 
