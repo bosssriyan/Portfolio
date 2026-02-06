@@ -1,157 +1,146 @@
 [
   {
-    "name": "mobile app UI UX",
-    "desc": "Looking for a mobile app UI/UX specialist who can bring your idea to life? I create modern, clean, and user-friendly interfaces for iOS and Android using Figma or Adobe XD. My work focuses on visuals that look great, flow smoothly, and are always developer-ready.",
-    "image": "notystackandroid",
-    "category": "mobile app",
+    "name": "I will do anything in adobe after effects",
+    "desc": "I will be doing high quality work for your videos and animations to give them fresh, energetic and appealing look.",
+    "image": "ae",
+    "category": "video edits",
     "links": {
       
     }
   },
   {
-    "name": "logo design",
-    "desc": "Modern Business Logo Design and complete Brand identity for your new start-up Or revamp of your existing Logo to gain the attention of more targeted audiences? Then this gig is for you. We will create an amazing brand identity that stands out.",
-    "image": "sppuprepandroid",
-    "category": "logo design",
+    "name": "I will create realistic ai videos using google veo 3",
+    "desc": "Need a cinematic video that captivates instantly? I create scroll-stopping, story-driven AI videos using Google Veo 3 and a powerful mix of tools like Sora AI, Higgs Field, and Kling AI, whichever gets the best result for you. From consistent characters to lifelike motion and scene accuracy, I craft visual experiences that match your goals, not just the tech trend.",
+    "image": "ai1",
+    "category": "ai",
     "links": {
       
     }
   },
   {
-    "name": "NewsBox Android",
-    "desc": "Native android app built using Java, XML. Retrofit & Glide dependencies. Provides different category news.",
-    "image": "newsboxandroid",
-    "category": "android",
+    "name": "I will develop ai api, ai chatbot, ai agent, chatgpt, ai website, ai software",
+    "desc": "I specialize in building AI chatbots, AI agents, websites, and mobile apps that leverage the latest LLMs whether cloud-hosted, open-source, or deployed securely on-premise. From custom GPT-style apps to domain-specific AI SaaS platforms, I create solutions that scale with your vision.",
+    "image": "ai2",
+    "category": "ai",
     "links": {
       
     }
   },
   {
-    "name": "Weatherly Android",
-    "desc": "Native android app built using Java, XML and Volley dependencies. Provides weather forecast.",
-    "image": "weatherlyandroid",
-    "category": "android",
+    "name": "I will do ios app development and android development as a mobile app developer",
+    "desc": "Are you looking for a skilled mobile app developer to bring your ideas to life? With over 4 years of experience and a portfolio of 200+ apps, I specialize in high-quality Android and iOS app development. ",
+    "image": "apps1",
+    "category": "apps",
     "links": {
       
     }
   },
   {
-    "name": "professionally edit your video",
-    "desc": "I have been editing videos for the past five years! and have outstanding experience in every niche! Be it vlogs, infographic videos, gaming videos, makeup, travel, Talkshow, etc.",
-    "image": "instagrammern",
-    "category": "Video Edits",
+    "name": "I will convert figma to html, psd, xd to html responsive bootstrap 5 tailwind css",
+    "desc": "With 10+ years of experience and 3,000+ successful projects, I deliver hand-coded, pixel-perfect websites that are responsive, cross-browser compatible, and built to perform. My focus is on quality, speed, and your satisfaction.",
+    "image": "bootstrap",
+    "category": "webiste",
     "links": {
       
     }
   },
   {
-    "name": "Flipkart MERN",
-    "desc": "Full-Stack Flipkart with Admin Dashboard and Paytm Payment Gateway. MERN Stack WebApp, ready to use for business.",
-    "image": "flipkartmern",
-    "category": "mern",
+    "name": "I will craft stunning visual brand identity guidelines, style guide and logo design",
+    "desc": "re you looking to elevate your brand with a cohesive and visually stunning identity? Look no further! I specialize in creating comprehensive brand identity guidelines, style guides, and logo designs that will make your brand stand out.",
+    "image": "brand1",
+    "category": "brand",
     "links": {
-      "view": "https://flipkartwebs.herokuapp.com/",
-      "code": "https://github.com/jigar-sable/flipkart-mern"
+      
     }
   },
   {
-    "name": "ResumeGen",
-    "desc": "ReactJS Basic Resume Generator which will generate customized resume in few minutes on your requirements.",
-    "image": "resumegen",
-    "category": "mern",
+    "name": "I will do professional color grading by senior colorist",
+    "desc": "I can work any sorts of color profiles and spaces, from RED, Arri, Blackmagic to Sony, Lumix, Canon, etc.",
+    "image": "cgrading",
+    "category": "video edits",
     "links": {
-      "view": "https://resumegenx.netlify.app/",
-      "code": "https://github.com/jigar-sable/resumegen"
+      
     }
   },
   {
-    "name": "React-Projects",
-    "desc": "Full-Stack project dashboard which is collection of projects built on the React library.",
-    "image": "reactprojects",
-    "category": "mern",
+    "name": "I will create a 60 second raw video containing no edits",
+    "desc": "I will create 1 video for your product for 60 seconds of raw video.I can read from your script or will create custom script to your approval.",
+    "image": "conc",
+    "category": "video edits",
     "links": {
-      "view": "https://reactjsprojects.herokuapp.com/",
-      "code": "https://github.com/jigar-sable/React-Projects"
+      
     }
   },
   {
-    "name": "Flipkart PHP",
-    "desc": "Full-Stack Flipkart Clone Using LAMP Stack. With all major features and OTP authentication and Cashfree payment gateway.",
-    "image": "flipkartphp",
-    "category": "lamp",
+    "name": "I will do cinematic wedding video editing professionally",
+    "desc": "I would probably sa the most important part would be making sure my clients had everything they wanted. if they are happy Ill be happy.",
+    "image": "eits2",
+    "category": "video edits",
     "links": {
-      "view": "https://github.com/jigar-sable/Flipkart-Clone-PHP",
-      "code": "https://github.com/jigar-sable/Flipkart-Clone-PHP"
+      
     }
   },
   {
-    "name": "JavaScript Projects Website",
-    "desc": "This website is specially build to showcase all major javaScript projects. All my javaScript based projects are in it.",
-    "image": "jspro",
-    "category": "basicweb",
+    "name": "I will create a flyer design, poster, postcard or door hanger design",
+    "desc": "Need a Flyer design, poster, brochure, door hanger, or postcard design? I've got you covered. For the last 10 years, I created more than 150000+ flyers for business like you and have earned best customer satisfaction.",
+    "image": "falyer1",
+    "category": "picedits",
     "links": {
-      "view": "https://jigar-sable.github.io/JavaScript-Projects",
-      "code": "https://github.com/jigar-sable/JavaScript-Projects"
+      
     }
   },
   {
-    "name": "Web UI Clones",
-    "desc": "Flipkart, YouTube, Instagram, Sololearn web UI clones using tailwindCSS.",
-    "image": "webuiclones",
-    "category": "mern",
+    "name": "I will do video editing in filmora",
+    "desc": "I will be using Filmora x for editing with all the latest features and functionality so that you can get fully professionally edited videos of yours.",
+    "image": "filmora",
+    "category": "video edits",
     "links": {
-      "view": "https://github.com/jigar-sable/web-ui-clones",
-      "code": "https://github.com/jigar-sable/web-ui-clones"
+      
     }
   },
   {
-    "name": "Crypto Tracker",
-    "desc": "Crypto Tracker built using ReactJS and Chakra UI. Supports dark mode. API used coingecko.",
-    "image": "cryptotracker",
-    "category": "mern",
+    "name": "I will handle your youtube video editing, reels or shorts from rough cut to final",
+    "desc": "With 5+ years of experience in video editing, I create high-quality, engaging content using DaVinci Resolve, Premiere Pro, After Effects, CapCut, and/or online tools like Canva",
+    "image": "finalcut",
+    "category": "video edits",
     "links": {
-      "view": "https://crypto-tracker-react-project.netlify.app/",
-      "code": "https://github.com/jigar-sable/React-Projects/tree/main/crypto-tracker"
+      
     }
   },
   {
-    "name": "Hulu Website",
-    "desc": "Hulu website built using NextJS and tailwindCSS. API used TMDB, deployed on vercel.",
-    "image": "hulu",
-    "category": "mern",
+    "name": "I will setup google analytics 4, ga4 ecommerce tracking, ads conversion tracking by GTM",
+    "desc": "I know you are looking for someone Google Analytics 4 (GA4) and Google Ads Conversion Tracking Expert To Set up Properly Google Ads Conversion Tracking, Google Analytics 4, GA4 E-commerce Events Tracking",
+    "image": "ganatytics",
+    "category": "google",
     "links": {
-      "view": "https://hulu-clone-jigar-sable.vercel.app/",
-      "code": "https://github.com/jigar-sable/React-Projects/tree/main/hulu-clone"
+      
     }
   },
   {
-    "name": "Portfolio Website",
-    "desc": "Personal Portfolio Website. Don't Need Much Info About It, Just Scroll Down. You're Here Only!",
-    "image": "portfolio1",
-    "category": "basicweb",
+    "name": "I will create professional animated HTML5 banner ads",
+    "desc": "I will create animated HTML5 banner ads for your digital campaigns to use on Google Ads, DoubleClick Studio, Adform, AdRoll, Sizmek, IAB or any ad serving platform if you provide full specs",
+    "image": "html5",
+    "category": "webbanners",
     "links": {
-      "view": "#",
-      "code": "https://github.com/jigar-sable/Portfolio-Website"
+      
     }
   },
   {
-    "name": "Composey Website",
-    "desc": "Simple landing page website built using HTML, CSS, JavaScript and some JavaScript Libraries.",
-    "image": "composey",
-    "category": "basicweb",
+    "name": "I will vectorize image, vector tracing, vector logo, image to vector, adobe illustrator",
+    "desc": "I'm here to do vector tracing, vectorize, convert and redraw your logos, flat images, text & sketches manually.",
+    "image": "ilas",
+    "category": "vectortracing",
     "links": {
-      "view": "https://composey.netlify.app/",
-      "code": "https://github.com/jigar-sable/LGMVIP-WebDev"
+      
     }
   },
   {
-    "name": "Webview App",
-    "desc": "It's an android app which uses web view component for displaying content. This app provides many different features.",
-    "image": "webviewapp",
-    "category": "android",
+    "name": "I will be software developer full stack web developer php laravel developer react js",
+    "desc": "React JS developer professionals to build or rebuild a modern clean custom frontend website that is responsive and viewed on all devices screens, including Mobile | Desktop | Laptop.",
+    "image": "js",
+    "category": "webapplications",
     "links": {
-      "view": "https://github.com/jigar-sable/Android-Webview#webapp--android-webview-app",
-      "code": "https://github.com/jigar-sable/Android-Webview"
+      
     }
   },
   {
@@ -335,7 +324,3 @@
     }
   }
 ]
-
-
-
-
