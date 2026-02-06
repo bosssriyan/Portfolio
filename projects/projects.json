@@ -1,12 +1,11 @@
 [
   {
-    "name": "NotyStack Android",
-    "desc": "Fully fledged android CRUD app based on different design patterns. Built using Java, XML, SQLite, Firebase, RoomDB, MVVM.",
+    "name": "mobile app UI UX",
+    "desc": "Looking for a mobile app UI/UX specialist who can bring your idea to life? I create modern, clean, and user-friendly interfaces for iOS and Android using Figma or Adobe XD. My work focuses on visuals that look great, flow smoothly, and are always developer-ready.",
     "image": "notystackandroid",
-    "category": "android",
+    "category": "mobile app",
     "links": {
-      "view": "https://www.linkedin.com/posts/jigar-sable_androiddev-androidstudio-java-activity-6955224473822199808-JT0j",
-      "code": "https://github.com/jigar-sable/notystack-android"
+      
     }
   },
   {
@@ -340,3 +339,4 @@
     }
   }
 ]
+
