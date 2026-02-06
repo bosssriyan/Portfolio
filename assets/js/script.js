@@ -38,20 +38,21 @@ $(document).ready(function () {
     });
 
     // <!-- emailjs to mail contact form data -->
-    $("#contact-form").submit(function (event) {
-        emailjs.init("user_TTDmetQLYgWCLzHTDgqxm");
+   $("#contact-form").submit(function (event) {
+    emailjs.init({ publicKey: "_Zjm0f7w0s9ZWHN9Q" });
 
-        emailjs.sendForm('contact_service', 'template_contact', '#contact-form')
-            .then(function (response) {
-                console.log('SUCCESS!', response.status, response.text);
-                document.getElementById("contact-form").reset();
-                alert("Form Submitted Successfully");
-            }, function (error) {
-                console.log('FAILED...', error);
-                alert("Form Submission Failed! Try Again");
-            });
-        event.preventDefault();
+    emailjs.sendForm("service_agf90dk", "template_b84isyi", "#contact-form")
+    .then(function (response) {
+        console.log('SUCCESS!', response.status, response.text);
+        document.getElementById("contact-form").reset();
+        alert("Form Submitted Successfully");
+    }, function (error) {
+        console.log('FAILED...', error);
+        alert("Form Submission Failed! Try Again");
     });
+
+    event.preventDefault();
+});
     // <!-- emailjs to mail contact form data -->
 
 });
