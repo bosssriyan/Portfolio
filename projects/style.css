@@ -356,8 +356,8 @@ header .navbar ul li a:hover{
 #work .box .btns,
 #work .box .btn,
 #work .box a.btn,
-#work .box .desc .btn {
+#work .box .desc .btn,
+#work .box [class*="btn"] {
   display: none !important;
 }
-
 
