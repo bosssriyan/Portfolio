@@ -1,6 +1,6 @@
 [
   {
-    "name": "I will do anything in adobe after effects",
+    "name": "I will do after effects",
     "desc": "I will be doing high quality work for your videos and animations to give them fresh, energetic and appealing look.",
     "image": "ae",
     "category": "video edits",
@@ -9,7 +9,7 @@
     }
   },
   {
-    "name": "I will create realistic ai videos using google veo 3",
+    "name": "Realistic ai videos ",
     "desc": "Need a cinematic video that captivates instantly? I create scroll-stopping, story-driven AI videos using Google Veo 3 and a powerful mix of tools like Sora AI, Higgs Field, and Kling AI, whichever gets the best result for you. From consistent characters to lifelike motion and scene accuracy, I craft visual experiences that match your goals, not just the tech trend.",
     "image": "ai1",
     "category": "ai",
@@ -18,7 +18,7 @@
     }
   },
   {
-    "name": "I will develop ai api, ai chatbot, ai agent, chatgpt, ai website, ai software",
+    "name": "Develop ai api",
     "desc": "I specialize in building AI chatbots, AI agents, websites, and mobile apps that leverage the latest LLMs whether cloud-hosted, open-source, or deployed securely on-premise. From custom GPT-style apps to domain-specific AI SaaS platforms, I create solutions that scale with your vision.",
     "image": "ai2",
     "category": "ai",
@@ -36,7 +36,7 @@
     }
   },
   {
-    "name": "I will convert figma to html, psd, xd to html responsive bootstrap 5 tailwind css",
+    "name": "Html bootstrap ",
     "desc": "With 10+ years of experience and 3,000+ successful projects, I deliver hand-coded, pixel-perfect websites that are responsive, cross-browser compatible, and built to perform. My focus is on quality, speed, and your satisfaction.",
     "image": "bootstrap",
     "category": "webiste",
@@ -45,7 +45,7 @@
     }
   },
   {
-    "name": "I will craft stunning visual brand identity guidelines, style guide and logo design",
+    "name": "Logo Design",
     "desc": "re you looking to elevate your brand with a cohesive and visually stunning identity? Look no further! I specialize in creating comprehensive brand identity guidelines, style guides, and logo designs that will make your brand stand out.",
     "image": "brand1",
     "category": "brand",
@@ -54,7 +54,7 @@
     }
   },
   {
-    "name": "I will do professional color grading by senior colorist",
+    "name": "color grading ",
     "desc": "I can work any sorts of color profiles and spaces, from RED, Arri, Blackmagic to Sony, Lumix, Canon, etc.",
     "image": "cgrading",
     "category": "video edits",
@@ -63,7 +63,7 @@
     }
   },
   {
-    "name": "I will create a 60 second raw video containing no edits",
+    "name": "60 second raw video ",
     "desc": "I will create 1 video for your product for 60 seconds of raw video.I can read from your script or will create custom script to your approval.",
     "image": "conc",
     "category": "video edits",
@@ -72,7 +72,7 @@
     }
   },
   {
-    "name": "I will do cinematic wedding video editing professionally",
+    "name": "cinematic wedding video editing ",
     "desc": "I would probably sa the most important part would be making sure my clients had everything they wanted. if they are happy Ill be happy.",
     "image": "eits2",
     "category": "video edits",
@@ -81,7 +81,7 @@
     }
   },
   {
-    "name": "I will create a flyer design, poster, postcard or door hanger design",
+    "name": "I will create a flyer design",
     "desc": "Need a Flyer design, poster, brochure, door hanger, or postcard design? I've got you covered. For the last 10 years, I created more than 150000+ flyers for business like you and have earned best customer satisfaction.",
     "image": "falyer1",
     "category": "picedits",
@@ -90,7 +90,7 @@
     }
   },
   {
-    "name": "I will do video editing in filmora",
+    "name": "Video editing in filmora",
     "desc": "I will be using Filmora x for editing with all the latest features and functionality so that you can get fully professionally edited videos of yours.",
     "image": "filmora",
     "category": "video edits",
@@ -99,7 +99,7 @@
     }
   },
   {
-    "name": "I will handle your youtube video editing, reels or shorts from rough cut to final",
+    "name": "Youtube video editing",
     "desc": "With 5+ years of experience in video editing, I create high-quality, engaging content using DaVinci Resolve, Premiere Pro, After Effects, CapCut, and/or online tools like Canva",
     "image": "finalcut",
     "category": "video edits",
@@ -108,7 +108,7 @@
     }
   },
   {
-    "name": "I will setup google analytics 4, ga4 ecommerce tracking, ads conversion tracking by GTM",
+    "name": "google analytics tracking by GTM",
     "desc": "I know you are looking for someone Google Analytics 4 (GA4) and Google Ads Conversion Tracking Expert To Set up Properly Google Ads Conversion Tracking, Google Analytics 4, GA4 E-commerce Events Tracking",
     "image": "ganatytics",
     "category": "google",
@@ -117,7 +117,7 @@
     }
   },
   {
-    "name": "I will create professional animated HTML5 banner ads",
+    "name": "animated HTML5 banner ads",
     "desc": "I will create animated HTML5 banner ads for your digital campaigns to use on Google Ads, DoubleClick Studio, Adform, AdRoll, Sizmek, IAB or any ad serving platform if you provide full specs",
     "image": "html5",
     "category": "webbanners",
@@ -126,7 +126,7 @@
     }
   },
   {
-    "name": "I will vectorize image, vector tracing, vector logo, image to vector, adobe illustrator",
+    "name": "Adobe illustrator",
     "desc": "I'm here to do vector tracing, vectorize, convert and redraw your logos, flat images, text & sketches manually.",
     "image": "ilas",
     "category": "vectortracing",
@@ -135,7 +135,7 @@
     }
   },
   {
-    "name": "I will be software developer full stack web developer php laravel developer react js",
+    "name": "Laravel developer react js",
     "desc": "React JS developer professionals to build or rebuild a modern clean custom frontend website that is responsive and viewed on all devices screens, including Mobile | Desktop | Laptop.",
     "image": "js",
     "category": "webapplications",
@@ -144,183 +144,157 @@
     }
   },
   {
-    "name": "PHP Banking Website",
-    "desc": "Basic Banking System based on PHP and MySQL database. Made with HTML, CSS, JavaScript and backend with PHP.",
-    "image": "tsfbank",
-    "category": "lamp",
+    "name": "Website development as laravel",
+    "desc": "My approach is simple: clear communication, clean coding, and the ability to deliver complex and highly functional websites and results that truly work for you and help your business grow.",
+    "image": "larable",
+    "category": "websitedevelopment",
     "links": {
-      "view": "https://tsfbank.rf.gd",
-      "code": "https://github.com/jigar-sable/TSF-Bank"
+      
     }
   },
   {
-    "name": "Bootstrap Portfolio",
-    "desc": "Portfolio built using HTML, CSS, Bootstrap, SASS and JavaScript. Customized Bootstrap using SCSS.",
-    "image": "bootstrapportfolio",
-    "category": "basicweb",
+    "name": "Optimize your linkedin profile",
+    "desc": "LinkedIn writing specialist with HR & recruitment experience. I've helped fresh graduates to senior executives land interviews and 6–7 figure roles with standout resumes...",
+    "image": "linkin",
+    "category": "linkedIn ",
     "links": {
-      "view": "#",
-      "code": "#"
+      
     }
   },
   {
-    "name": "Bootstrap Template",
-    "desc": "Basic website template built using HTML and Bootstrap.",
-    "image": "bootstraptemplate",
-    "category": "basicweb",
+    "name": "Wedding photo lightroom quickly",
+    "desc": "I will make your beautiful wedding photos more beautiful by color grading and retouching",
+    "image": "litroom",
+    "category": "imageediting",
     "links": {
-      "view": "#",
-      "code": "#"
+      
     }
   },
   {
-    "name": "Foodicious",
-    "desc": "Basic food website landing page built using HTML, CSS and JavaScript.",
-    "image": "foodicious",
-    "category": "basicweb",
+    "name": "Minimalist logo Design",
+    "desc": "I'll design a professional logo design in minimalist style with my creativity and skills in vector format (.ai, EPS, PDF and SVG)",
+    "image": "logo1",
+    "category": "imageediting",
     "links": {
-      "view": "#",
-      "code": "#"
+      
     }
   },
   {
-    "name": "Food Website",
-    "desc": "Basic food website landing page built using HTML, CSS, SASS, Bootstrap and jQuery.",
-    "image": "foodwebsite",
-    "category": "basicweb",
+    "name": "Video editing and motion graphics",
+    "desc": "It's very important to me to know exactly what you want, send me video references you love, music you enjoy and any idea that can help us create a jaw dropping video.",
+    "image": "motion",
+    "category": "video edits",
     "links": {
-      "view": "#",
-      "code": "#"
+      
     }
   },
   {
-    "name": "WebChat Website",
-    "desc": "It's a web based chat app made using popular javaScript library Socket IO. Allows multiple users to connect.",
-    "image": "webchat",
-    "category": "mern",
+    "name": "Nodejs deverloper",
+    "desc": "'m an experienced Full Stack Developer specializing in custom web applications from design to deployment.",
+    "image": "node",
+    "category": "websitedevelopment",
     "links": {
-      "view": "https://github.com/jigar-sable/WebChat#webchat",
-      "code": "https://github.com/jigar-sable/WebChat"
+      
     }
   },
   {
-    "name": "Basic Banking App",
-    "desc": "It's an android app which uses SQLite to store user accounts data. It provides feature to simply transact amount.",
-    "image": "basicbank",
-    "category": "android",
+    "name": "Movie posters and film posters ",
+    "desc": " I am working in this industry from 5 years. as a professional graphic designer and a big movie fan, I have the skill and a good eye to do poster design well. ",
+    "image": "poster",
+    "category": "imageediting",
     "links": {
-      "view": "https://github.com/jigar-sable/Basic_Banking_App#basic-banking-app",
-      "code": "https://github.com/jigar-sable/Basic_Banking_App"
+      
     }
   },
   {
-    "name": "JavaScript Issue Tracker",
-    "desc": "It provides the feature to Assign Issue With The Auto Generated Id By Using ChanceJS. Uses Local Storage.",
-    "image": "issuetrack",
-    "category": "basicweb",
+    "name": "Video editing for youtube",
+    "desc": "I can bring your content to life with fantastic video editing focused on the watching experience and viewer retention.",
+    "image": "ppro",
+    "category": "video edits",
     "links": {
-      "view": "https://jigar-sable.github.io/JavaScript-Projects/projects/issuetracker",
-      "code": "https://github.com/jigar-sable/JavaScript-Projects/tree/main/projects/issuetracker"
+      
     }
   },
   {
-    "name": "PHP PBL Portal",
-    "desc": "A simple portal in which students can submit their PBL projects and faculties can view by access admin panel.",
-    "image": "phppblform",
-    "category": "lamp",
+    "name": "Retouching and photo manipulation",
+    "desc": "If you're looking for high-quality Photoshop editing, you're in the right place. I'm here to help with any editing needs you have.",
+    "image": "ps1",
+    "category": "imageediting",
     "links": {
-      "view": "https://github.com/jigar-sable/PHP-Projects/tree/main/pblform#pbl-portal",
-      "code": "https://github.com/jigar-sable/PHP-Projects/tree/main/pblform"
+      
     }
   },
   {
-    "name": "Link List",
-    "desc": "All major profile links in a single website. It's just like clone of link tree. Personalized and Responsive.",
-    "image": "linklist",
-    "category": "basicweb",
+    "name": "Photoshop editing",
+    "desc": "Improve skin complexion/ makeup, whiten teeth, body slimming, reshaping, reduce fat on body parts.",
+    "image": "ps2",
+    "category": "imageediting",
     "links": {
-      "view": "https://jigar-sable.github.io/LinkList",
-      "code": "https://github.com/jigar-sable/LinkList"
+      
     }
   },
   {
-    "name": "Job Finder Dummy",
-    "desc": "It Fetch JSON Data And Allow Feature To Search Within The Content Displayed. Will be Developed By Using Live APIs.",
-    "image": "saas",
-    "category": "basicweb",
+    "name": "Onpage seo",
+    "desc": "with 5+ years of experience offering reliable monthly SEO services designed to deliver consistent growth and long-term results. I specialize in Local SEO, GEO SEO AEO .",
+    "image": "seo1",
+    "category": "seo",
     "links": {
-      "view": "https://jigar-sable.github.io/JavaScript-Projects/api-projects/saas-jobs",
-      "code": "https://github.com/jigar-sable/JavaScript-Projects/tree/main/api-projects/saas-jobs"
+      
     }
   },
   {
-    "name": "Old Websites",
-    "desc": "Bestwebs & ColorCoder. Two Years old websites memories. Simple with basic features.",
-    "image": "oldsites",
-    "category": "basicweb",
+    "name": "SEO of your website",
+    "desc": "I am very passionate about digital marketing and what sets me apart from others is my ability to get REAL results .",
+    "image": "seo2",
+    "category": "seo",
     "links": {
-      "view": "#",
-      "code": "#"
+      
     }
   },
   {
-    "name": "Resistor Color Codes",
-    "desc": "Simply provides the color codes of resistors. Calculation information and about resistors.",
-    "image": "resistercolor",
-    "category": "basicweb",
+    "name": "perfect youtube thumbnail",
+    "desc": "90% of the best performing videos have custom thumbnails.",
+    "image": "thum",
+    "category": "imageediting",
     "links": {
-      "view": "#",
-      "code": "#"
+      
     }
   },
   {
-    "name": "KIA Info Website",
-    "desc": "Basic KIA webpage displays the info about seltos product range. Specs and Image Gallery.",
-    "image": "kiaweb",
-    "category": "basicweb",
+    "name": "Amazing t shirt",
+    "desc": "I will design custom amazing t-Shirt and logo with your idea ",
+    "image": "tsart",
+    "category": "imageediting",
     "links": {
-      "view": "#",
-      "code": "#"
+      
     }
   },
   {
-    "name": "Burger Shop Dummy",
-    "desc": "Basic burger shop webpage allow users to check menu and price. Dummy Order Form.",
-    "image": "burgerweb",
-    "category": "basicweb",
+    "name": "Anime faceless videos",
+    "desc": "Basically in this GIG I am converting your ideas in videos related to anime content.",
+    "image": "videoeits1",
+    "category": "video edits",
     "links": {
-      "view": "#",
-      "code": "#"
+      
     }
   },
   {
-    "name": "Indian Temples",
-    "desc": "It shows temples of different sectors of India. as user clicks it will redirect to wiki of that temple for info.",
-    "image": "templeweb",
-    "category": "basicweb",
+    "name": "Gaming video editing",
+    "desc": "It's been almost 3 years since I worked in it because of which I've been very capable of doing this",
+    "image": "videoeits2",
+    "category": "video edits",
     "links": {
-      "view": "#",
-      "code": "#"
+      
     }
   },
   {
-    "name": "Indian Temples",
-    "desc": "It shows temples of different sectors of India. as user clicks it will redirect to wiki of that temple for info.",
-    "image": "templeweb",
-    "category": "basicweb",
+    "name": " clone revamp wordpress",
+    "desc": "Looking for a professional wordpress developer to design / redesign website for your business or personal brand? Look no further, because You're at the right place.",
+    "image": "wp",
+    "category": "websitedevelopment",
     "links": {
-      "view": "#",
-      "code": "#"
+      
     }
   },
-  {
-    "name": "Indian Temples",
-    "desc": "It shows temples of different sectors of India. as user clicks it will redirect to wiki of that temple for info.",
-    "image": "templeweb",
-    "category": "basicweb",
-    "links": {
-      "view": "#",
-      "code": "#"
-    }
-  }
+  
 ]
