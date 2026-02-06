@@ -9,13 +9,12 @@
     }
   },
   {
-    "name": "SPPU Engg Prep",
-    "desc": "All in one SPPU Engineering resources. Built using Java, XML and Firebase.",
+    "name": "logo design",
+    "desc": "Modern Business Logo Design and complete Brand identity for your new start-up Or revamp of your existing Logo to gain the attention of more targeted audiences? Then this gig is for you. We will create an amazing brand identity that stands out.",
     "image": "sppuprepandroid",
-    "category": "android",
+    "category": "logo design",
     "links": {
-      "view": "https://www.linkedin.com/posts/jigar-sable_androiddev-androidstudio-java-activity-6955224473822199808-JT0j",
-      "code": "https://github.com/jigar-sable/sppu-prep-android"
+      
     }
   },
   {
@@ -339,4 +338,5 @@
     }
   }
 ]
+
 
