@@ -353,8 +353,11 @@ header .navbar ul li a:hover{
 
 /* scroll top ends */
 
-#work .btns,
-#work a.btn,
-#work .btn {
+#work .box .btns,
+#work .box .btn,
+#work .box a.btn,
+#work .box .desc .btn {
   display: none !important;
 }
+
+
