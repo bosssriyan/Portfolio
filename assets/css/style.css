@@ -1223,3 +1223,9 @@ form .button-area {
   top: calc(100% - 12rem);
 }
 /* scroll top ends */
+
+/* hide View + Code buttons in Home Work section */
+.work .desc .btns,
+.work .desc .btns .btn{
+  display: none !important;
+}
