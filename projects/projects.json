@@ -4,297 +4,230 @@
     "desc": "I will be doing high quality work for your videos and animations to give them fresh, energetic and appealing look.",
     "image": "ae",
     "category": "video edits",
-    "links": {
-      
-    }
+    "links": {}
   },
   {
-    "name": "Realistic ai videos ",
+    "name": "Realistic ai videos",
     "desc": "Need a cinematic video that captivates instantly? I create scroll-stopping, story-driven AI videos using Google Veo 3 and a powerful mix of tools like Sora AI, Higgs Field, and Kling AI, whichever gets the best result for you. From consistent characters to lifelike motion and scene accuracy, I craft visual experiences that match your goals, not just the tech trend.",
     "image": "ai1",
     "category": "ai",
-    "links": {
-      
-    }
+    "links": {}
   },
   {
     "name": "Develop ai api",
     "desc": "I specialize in building AI chatbots, AI agents, websites, and mobile apps that leverage the latest LLMs whether cloud-hosted, open-source, or deployed securely on-premise. From custom GPT-style apps to domain-specific AI SaaS platforms, I create solutions that scale with your vision.",
     "image": "ai2",
     "category": "ai",
-    "links": {
-      
-    }
+    "links": {}
   },
   {
     "name": "I will do ios app development and android development as a mobile app developer",
-    "desc": "Are you looking for a skilled mobile app developer to bring your ideas to life? With over 4 years of experience and a portfolio of 200+ apps, I specialize in high-quality Android and iOS app development. ",
+    "desc": "Are you looking for a skilled mobile app developer to bring your ideas to life? With over 4 years of experience and a portfolio of 200+ apps, I specialize in high-quality Android and iOS app development.",
     "image": "apps1",
     "category": "apps",
-    "links": {
-      
-    }
+    "links": {}
   },
   {
-    "name": "Html bootstrap ",
+    "name": "Html bootstrap",
     "desc": "With 10+ years of experience and 3,000+ successful projects, I deliver hand-coded, pixel-perfect websites that are responsive, cross-browser compatible, and built to perform. My focus is on quality, speed, and your satisfaction.",
     "image": "bootstrap",
     "category": "webiste",
-    "links": {
-      
-    }
+    "links": {}
   },
   {
     "name": "Logo Design",
-    "desc": "re you looking to elevate your brand with a cohesive and visually stunning identity? Look no further! I specialize in creating comprehensive brand identity guidelines, style guides, and logo designs that will make your brand stand out.",
+    "desc": "Are you looking to elevate your brand with a cohesive and visually stunning identity? Look no further! I specialize in creating comprehensive brand identity guidelines, style guides, and logo designs that will make your brand stand out.",
     "image": "brand1",
     "category": "brand",
-    "links": {
-      
-    }
+    "links": {}
   },
   {
-    "name": "color grading ",
+    "name": "color grading",
     "desc": "I can work any sorts of color profiles and spaces, from RED, Arri, Blackmagic to Sony, Lumix, Canon, etc.",
     "image": "cgrading",
     "category": "video edits",
-    "links": {
-      
-    }
+    "links": {}
   },
   {
-    "name": "60 second raw video ",
-    "desc": "I will create 1 video for your product for 60 seconds of raw video.I can read from your script or will create custom script to your approval.",
+    "name": "60 second raw video",
+    "desc": "I will create 1 video for your product for 60 seconds of raw video. I can read from your script or will create custom script to your approval.",
     "image": "conc",
     "category": "video edits",
-    "links": {
-      
-    }
+    "links": {}
   },
   {
-    "name": "cinematic wedding video editing ",
-    "desc": "I would probably sa the most important part would be making sure my clients had everything they wanted. if they are happy Ill be happy.",
+    "name": "cinematic wedding video editing",
+    "desc": "I would probably say the most important part would be making sure my clients had everything they wanted. If they are happy I'll be happy.",
     "image": "eits2",
     "category": "video edits",
-    "links": {
-      
-    }
+    "links": {}
   },
   {
     "name": "I will create a flyer design",
     "desc": "Need a Flyer design, poster, brochure, door hanger, or postcard design? I've got you covered. For the last 10 years, I created more than 150000+ flyers for business like you and have earned best customer satisfaction.",
     "image": "falyer1",
     "category": "picedits",
-    "links": {
-      
-    }
+    "links": {}
   },
   {
     "name": "Video editing in filmora",
     "desc": "I will be using Filmora x for editing with all the latest features and functionality so that you can get fully professionally edited videos of yours.",
     "image": "filmora",
     "category": "video edits",
-    "links": {
-      
-    }
+    "links": {}
   },
   {
     "name": "Youtube video editing",
     "desc": "With 5+ years of experience in video editing, I create high-quality, engaging content using DaVinci Resolve, Premiere Pro, After Effects, CapCut, and/or online tools like Canva",
     "image": "finalcut",
     "category": "video edits",
-    "links": {
-      
-    }
+    "links": {}
   },
   {
     "name": "google analytics tracking by GTM",
     "desc": "I know you are looking for someone Google Analytics 4 (GA4) and Google Ads Conversion Tracking Expert To Set up Properly Google Ads Conversion Tracking, Google Analytics 4, GA4 E-commerce Events Tracking",
     "image": "ganatytics",
     "category": "google",
-    "links": {
-      
-    }
+    "links": {}
   },
   {
     "name": "animated HTML5 banner ads",
     "desc": "I will create animated HTML5 banner ads for your digital campaigns to use on Google Ads, DoubleClick Studio, Adform, AdRoll, Sizmek, IAB or any ad serving platform if you provide full specs",
     "image": "html5",
     "category": "webbanners",
-    "links": {
-      
-    }
+    "links": {}
   },
   {
     "name": "Adobe illustrator",
     "desc": "I'm here to do vector tracing, vectorize, convert and redraw your logos, flat images, text & sketches manually.",
     "image": "ilas",
     "category": "vectortracing",
-    "links": {
-      
-    }
+    "links": {}
   },
   {
     "name": "Laravel developer react js",
     "desc": "React JS developer professionals to build or rebuild a modern clean custom frontend website that is responsive and viewed on all devices screens, including Mobile | Desktop | Laptop.",
     "image": "js",
     "category": "webapplications",
-    "links": {
-      
-    }
+    "links": {}
   },
   {
     "name": "Website development as laravel",
     "desc": "My approach is simple: clear communication, clean coding, and the ability to deliver complex and highly functional websites and results that truly work for you and help your business grow.",
     "image": "larable",
     "category": "websitedevelopment",
-    "links": {
-      
-    }
+    "links": {}
   },
   {
     "name": "Optimize your linkedin profile",
     "desc": "LinkedIn writing specialist with HR & recruitment experience. I've helped fresh graduates to senior executives land interviews and 6–7 figure roles with standout resumes...",
     "image": "linkin",
-    "category": "linkedIn ",
-    "links": {
-      
-    }
+    "category": "linkedIn",
+    "links": {}
   },
   {
     "name": "Wedding photo lightroom quickly",
     "desc": "I will make your beautiful wedding photos more beautiful by color grading and retouching",
     "image": "litroom",
     "category": "imageediting",
-    "links": {
-      
-    }
+    "links": {}
   },
   {
     "name": "Minimalist logo Design",
     "desc": "I'll design a professional logo design in minimalist style with my creativity and skills in vector format (.ai, EPS, PDF and SVG)",
     "image": "logo1",
     "category": "imageediting",
-    "links": {
-      
-    }
+    "links": {}
   },
   {
     "name": "Video editing and motion graphics",
     "desc": "It's very important to me to know exactly what you want, send me video references you love, music you enjoy and any idea that can help us create a jaw dropping video.",
     "image": "motion",
     "category": "video edits",
-    "links": {
-      
-    }
+    "links": {}
   },
   {
     "name": "Nodejs deverloper",
     "desc": "'m an experienced Full Stack Developer specializing in custom web applications from design to deployment.",
     "image": "node",
     "category": "websitedevelopment",
-    "links": {
-      
-    }
+    "links": {}
   },
   {
-    "name": "Movie posters and film posters ",
-    "desc": " I am working in this industry from 5 years. as a professional graphic designer and a big movie fan, I have the skill and a good eye to do poster design well. ",
+    "name": "Movie posters and film posters",
+    "desc": "I am working in this industry from 5 years. As a professional graphic designer and a big movie fan, I have the skill and a good eye to do poster design well.",
     "image": "poster",
     "category": "imageediting",
-    "links": {
-      
-    }
+    "links": {}
   },
   {
     "name": "Video editing for youtube",
     "desc": "I can bring your content to life with fantastic video editing focused on the watching experience and viewer retention.",
     "image": "ppro",
     "category": "video edits",
-    "links": {
-      
-    }
+    "links": {}
   },
   {
     "name": "Retouching and photo manipulation",
     "desc": "If you're looking for high-quality Photoshop editing, you're in the right place. I'm here to help with any editing needs you have.",
     "image": "ps1",
     "category": "imageediting",
-    "links": {
-      
-    }
+    "links": {}
   },
   {
     "name": "Photoshop editing",
     "desc": "Improve skin complexion/ makeup, whiten teeth, body slimming, reshaping, reduce fat on body parts.",
     "image": "ps2",
     "category": "imageediting",
-    "links": {
-      
-    }
+    "links": {}
   },
   {
     "name": "Onpage seo",
-    "desc": "with 5+ years of experience offering reliable monthly SEO services designed to deliver consistent growth and long-term results. I specialize in Local SEO, GEO SEO AEO .",
+    "desc": "With 5+ years of experience offering reliable monthly SEO services designed to deliver consistent growth and long-term results. I specialize in Local SEO, GEO SEO, AEO.",
     "image": "seo1",
     "category": "seo",
-    "links": {
-      
-    }
+    "links": {}
   },
   {
     "name": "SEO of your website",
-    "desc": "I am very passionate about digital marketing and what sets me apart from others is my ability to get REAL results .",
+    "desc": "I am very passionate about digital marketing and what sets me apart from others is my ability to get REAL results.",
     "image": "seo2",
     "category": "seo",
-    "links": {
-      
-    }
+    "links": {}
   },
   {
     "name": "perfect youtube thumbnail",
     "desc": "90% of the best performing videos have custom thumbnails.",
     "image": "thum",
     "category": "imageediting",
-    "links": {
-      
-    }
+    "links": {}
   },
   {
     "name": "Amazing t shirt",
-    "desc": "I will design custom amazing t-Shirt and logo with your idea ",
+    "desc": "I will design custom amazing t-Shirt and logo with your idea",
     "image": "tsart",
     "category": "imageediting",
-    "links": {
-      
-    }
+    "links": {}
   },
   {
     "name": "Anime faceless videos",
     "desc": "Basically in this GIG I am converting your ideas in videos related to anime content.",
     "image": "videoeits1",
     "category": "video edits",
-    "links": {
-      
-    }
+    "links": {}
   },
   {
     "name": "Gaming video editing",
     "desc": "It's been almost 3 years since I worked in it because of which I've been very capable of doing this",
     "image": "videoeits2",
     "category": "video edits",
-    "links": {
-      
-    }
+    "links": {}
   },
   {
-    "name": " clone revamp wordpress",
+    "name": "clone revamp wordpress",
     "desc": "Looking for a professional wordpress developer to design / redesign website for your business or personal brand? Look no further, because You're at the right place.",
     "image": "wp",
     "category": "websitedevelopment",
-    "links": {
-      
-    }
-  },
-  
+    "links": {}
+  }
 ]
