@@ -463,4 +463,12 @@ header .navbar ul li a:hover{
 #scroll-top.active{
   top: calc(100% - 12rem);
 }
+
 /* scroll top ends */
+
+.timeline .desc h3{
+  display: -webkit-box;
+  -webkit-line-clamp: 3;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+}
